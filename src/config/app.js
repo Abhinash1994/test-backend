@@ -40,11 +40,5 @@ export default {
      */
     secure : (process.env.APP_SECURE == 'true') || false,
 
-    AWS_ACCESS_KEY: 'AKIAJNY6NGG24EM55KUA',
-
-    AWS_SECRET_KEY: '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',
-
-    AWS_BUCKET: 'productphoto',
-
-    AWS_REGION: 'ap-south-1'
+   
 }
