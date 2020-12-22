@@ -1,0 +1,8 @@
+[0mPOST /api/product/add [31m500 [0m821.137 ms - 2070[0m
+[0mPOST /api/product/add [31m500 [0m437.209 ms - 2070[0m
+[0mPOST /api/product/add [32m200 [0m633.360 ms - 54[0m
+[0mGET /api/product/getAllproduct [31m500 [0m18.592 ms - 2070[0m
+[0mGET /api/product/getAllproduct [32m200 [0m48.963 ms - 479[0m
+[0mPOST /api/product/add [33m409 [0m1642.400 ms - 2070[0m
+[0mPOST /api/product/add [32m200 [0m1607.394 ms - 54[0m
+[0mGET /api/product/getAllproduct [32m200 [0m239.775 ms - 934[0m
